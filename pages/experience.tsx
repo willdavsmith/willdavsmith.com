@@ -31,9 +31,30 @@ export default function Experience() {
         <HeaderText text="Experience" />
         <ExperienceCard
           title="Microsoft"
-          subtitle="SWE Intern"
+          subtitle="Software Engineer"
           imageUrl="/microsoft.svg"
           color="yellow"
+        >
+          <div>
+            <p>
+              I am currently at Microsoft, working as a software engineer
+              in the Azure Office of the CTO Incubations team. Our team
+              ‘incubates’ cutting-edge ideas in the cloud and is heavily
+              involved in the open-source community.
+            </p>
+            <br />
+            <p>
+              Previously, I worked in the Azure Arc space, designing and 
+              building solutions for AKS clusters as well as hybrid and 
+              multi-cloud Kubernetes clusters.
+            </p>
+          </div>
+        </ExperienceCard>
+        <ExperienceCard
+          title="Microsoft"
+          subtitle="Software Engineering Intern"
+          imageUrl="/microsoft.svg"
+          color="blue"
         >
           <div>
             <p>
@@ -66,7 +87,7 @@ export default function Experience() {
           title="Liberty Mutual"
           subtitle="TechStart Intern"
           imageUrl="/libertymutual.png"
-          color="blue"
+          color="red"
         >
           <div>
             <p>

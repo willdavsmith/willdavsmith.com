@@ -20,9 +20,11 @@ export default function About() {
           <div className="flex flex-col space-y-2 justify-center p-2 max-w-screen-sm">
             <h1 className="text-6xl font-header">Hi!</h1>
             <p className="text-2xl">
-              I&apos;m a software engineer who has worked on a variety of
-              projects - from enterprise-scale Angular and React web apps to
-              Raspberry Pi home upgrades.
+              I&apos;m a software engineer interested in shiny new tech, especially
+              {' '}<strong>Kubernetes</strong>, <strong>Cloud Native</strong>{' '}
+              applications, and <strong>Raspberry Pi</strong>. I also love
+              guitars, snowboarding, gaming, reading, and the outdoors. Feel free
+              to reach out and say hi!
             </p>
           </div>
         </div>

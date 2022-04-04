@@ -17,8 +17,7 @@ export default function Home() {
           Hi, I&apos;m <span className="shadow-red">Will.</span>
         </h1>
         <p className="text-2xl">
-          I&apos;m a <span className="shadow-yellow">Software Engineer</span>{' '}
-          from Birmingham, Alabama.
+          I&apos;m a <span className="shadow-yellow">Software Engineer</span> from Seattle.
         </p>
       </motion.div>
     </Layout>
